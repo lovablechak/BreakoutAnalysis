@@ -113,9 +113,15 @@ Each breakout triggers a rich Discord notification with the ticker, price, % cha
 
 ## 💬 What You Get
 
-**Every morning** before market open: a **Market Briefing** summarizing S&P 500, NASDAQ, Dow Jones, VIX, and key events for the day.
+**☀️ Morning Market Briefing** — before the market opens, a Gemini-powered summary lands in your Discord and email covering S&P 500, NASDAQ, Dow, VIX, and any key events for the day (Fed meetings, CPI releases, earnings, etc.).
 
-**During market hours** (every 15 minutes): **Stock Alerts** for every new breakout candidate detected:
+**🌇 Afternoon Market Briefing** — midday, a second briefing recaps how the session is unfolding and what to watch for the rest of the day.
+
+**📧 Morning Email Digest (7–8 AM PST)** — a curated email of the top breakout stocks detected since the pre-market open, with AI analysis, news, and chart images.
+
+**📧 Afternoon Email Digest (12–1 PM PST)** — a second batch covering any new breakouts detected during the morning session that weren't in the first email.
+
+**During market hours** (every 15 minutes): **Discord Stock Alerts** for every new breakout candidate detected:
 
 ```
 📊 TICKER  +12.4% | $45.20 | Vol: 8.2M (3.4×)
