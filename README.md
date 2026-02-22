@@ -140,7 +140,7 @@ Key resistance at $48. Watch volume at the open...
 
 ---
 
-## � Screenshots
+## 📸 Screenshots
 
 ### ☀️ Morning Market Briefing
 ![Morning Market Briefing — S&P 500, NASDAQ, Dow, VIX, and key events for the day delivered before the bell](docs/screenshots/am_market_briefing.png)
@@ -148,11 +148,15 @@ Key resistance at $48. Watch volume at the open...
 ### 🌇 Afternoon Market Briefing
 ![Afternoon Market Briefing — midday market recap with index levels and general market conditions](docs/screenshots/pm_market_briefing.png)
 
-### 📊 Stock Alert — Discord Card
-![NIO stock alert card showing price, change %, volume, RSI, MACD, AI news summary, and a full trading plan with entry, stop loss, and take profit levels](docs/screenshots/stock_alert_nio.png)
+### 📊 Stock Alert — Discord Cards
 
-![SEDG stock alert card showing SolarEdge breakout analysis with analyst upgrade news and trading plan](docs/screenshots/stock_alert_sedg.png)
+![NIO stock alert – +10.14% on first-ever adjusted quarterly profit alert, with AI trading plan](docs/screenshots/stock_alert_nio.png)
 
+![SEDG stock alert – +10.43% on Barclays upgrade and export expansion news](docs/screenshots/stock_alert_sedg.png)
+
+![ASTS stock alert](docs/screenshots/stock_alert_asts.png)
+
+![BBAI stock alert](docs/screenshots/stock_alert_bbai.png)
 
 See **[SETUP.md](SETUP.md)** for a full step-by-step guide.
 
